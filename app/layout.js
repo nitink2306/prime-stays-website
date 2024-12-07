@@ -1,6 +1,3 @@
-import Logo from "@/app/_components/Logo";
-import Navigation from "@/app/_components/Navigation";
-
 import { Raleway } from "next/font/google";
 
 const raleway = Raleway({
